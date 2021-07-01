@@ -10,6 +10,8 @@ This application is designed to create a professional readme file written in mar
 
 When the user runs the node index.js the user is shown prompts and instructions of what and when to fill in  order to populated the markdown.  Once all of the questions are answered, a markdown file is generated using the answers that were provided.
 
+the read me practice_project_1.md is an example of what can be created using this application
+
 ## Usage
 This application is designed for any developer who wishes to quickly and efficiently create a professional readme.
 
