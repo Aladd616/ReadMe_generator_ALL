@@ -3,7 +3,7 @@
 ## Links
 
 [Repository]("https://github.com/Aladd616/ReadMe_generator_ALL")
-[walkthrough video]()
+[walkthrough video](https://youtu.be/4TyKFFV4H58)
 
 ## Description
 This application is designed to create a professional readme file written in markdown when the user fills in the prompts.
